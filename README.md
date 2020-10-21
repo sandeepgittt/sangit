@@ -1,2 +1,2 @@
 # sangit
-my first git progrram
+my first git program.
